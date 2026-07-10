@@ -9,7 +9,7 @@ if(role !== "ADMIN"){
 }
 console.log("addstudent.js loaded")
 
-const BASE_URL = "http://localhost:8080/api";
+const BASE_URL = "/api";
 
 
 const studentForm = document.getElementById("studentForm");
